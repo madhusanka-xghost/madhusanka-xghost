@@ -2,7 +2,7 @@
 
 A passionate tech enthusiast focused on **Cybersecurity**, **Web Development**, and **Digital Innovation**, currently pursuing a Bachelor of Information and Communication Technology (BICT) degree at the South Eastern University of Sri Lanka. I strive to build secure, robust solutions and contribute positively to the digital landscape.
 
-[![Madhusanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhusanka-xghost&show_icons=true&theme=radical&hide_border=true&rank_icon=github)](https://github.com/madhusanka-xghost)
+[![Madhusanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhusanka-xghost&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=1800)](https://github.com/madhusanka-xghost)
 
 ---
 
