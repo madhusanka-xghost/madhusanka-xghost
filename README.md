@@ -10,7 +10,7 @@ A passionate tech enthusiast focused on **Cybersecurity**, **Web Development**, 
 
 * **🛡️ Cybersecurity:** Ethical Hacking, Digital Forensics, Security Operations (SOC), Threat Hunting, Log Analysis, and Security Information & Event Management (SIEM) concepts.
 * **💻 Secure Development:** Building secure Web Applications, E-commerce Systems, and POS like solutions.
-* **🇱🇰 Community & Content:** Creating Sinhala-language cybersecurity educational resources.
+* **🇱🇰 Community & Content:** Creating Sinhala-language Tech educational resources.
 
 ---
 
@@ -21,7 +21,6 @@ Actively expanding my skills in:
 * Advanced cybersecurity techniques and methodologies (Offensive & Defensive).
 * Front-end & full-stack development using modern JavaScript frameworks and libraries.
 * Implementing real-time monitoring, logging, and data visualization solutions.
-* Designing secure architecture for web applications like LMS and e-commerce systems.
 
 ---
 
