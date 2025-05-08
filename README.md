@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm H. Madhusanka Nayanajith
+# 👋 Hi there! I'm Madhusanka Nayanajith
 
 A passionate tech enthusiast focused on **Cybersecurity**, **Web Development**, and **Digital Innovation**, currently pursuing a Bachelor of Information and Communication Technology (BICT) degree at the South Eastern University of Sri Lanka. I strive to build secure, robust solutions and contribute positively to the digital landscape.
 
@@ -27,7 +27,7 @@ Actively expanding my skills in:
 ### 🛠️ Technical Skills
 
 * **Cybersecurity:** Security Information & Event Management (SIEM), Penetration Testing Concepts, Network Scanning & Analysis, Web Application Security Principles.
-* **Web Development:** JavaScript (React,Node), HTML5, CSS3, Modern Front-end Frameworks & Libraries.
+* **Web Development:** JavaScript (React), HTML5, Tailwind CSS, Modern Front-end Frameworks & Libraries.
 * **Monitoring/Logging:** Log Management Systems, Data Visualization Platforms, Real-time Monitoring Techniques.
 * **Operating Systems:** Linux, Windows.
 
